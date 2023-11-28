@@ -1,1 +1,1 @@
-we start the day wirt an exchange and that is great!
+# we start the day with an exchange and that is great!
